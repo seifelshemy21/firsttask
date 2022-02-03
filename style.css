@@ -1,0 +1,192 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+   outline: 0%;
+}
+nav img{
+    position: relative;
+    height: 700px;
+}
+
+nav .h1{
+position: absolute;
+top: 10px;
+margin-left: 15%;
+color: aliceblue;
+}
+nav .a1{
+    position: absolute;
+    top: 15px;
+    text-align: center;
+    left: 55%;
+}
+.a1 a{
+    margin: 15px;
+    padding: 10px;
+text-decoration: none;
+color: aliceblue;
+}
+nav .p1{
+    position: absolute;
+    top: 30%;
+    margin-left: 40%;
+    color: aliceblue;
+    font-style: oblique;
+}
+nav h2{
+   font-weight: bold;
+    font-size: 400%;
+    
+}
+.p1 h4{
+    margin-left: 20%;
+}
+.p1 h5{
+    margin-left: 35%;
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-between;
+}
+.sec1 img{
+width: 500px;
+height: 300px;
+margin-top: 30%;
+margin-left: 30%;
+}
+.sec1 .p2{
+    margin-top: 150px;
+  margin-right: 20%;
+}
+.p2 strong{
+    color: rgb(13, 133, 163);
+    font-size: xx-large;
+   
+}
+.p2 b{
+    color: rgb(13, 133, 163);
+}
+.p2 button{
+     border: solid 1px black ;
+    border-radius: 10vmax;
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:rgb(38, 149, 177) ;
+    color: blanchedalmond;
+   
+}
+.p2 button:hover{
+background-color: rgb(162, 67, 226);
+
+}
+.sec2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+.sec2 strong{
+    font-size: xx-large;
+    color: rgb(133, 134, 134);
+}
+.sec2 b{
+    color: rgb(13, 133, 163);
+    margin-left: 10%;
+}
+.sec3{
+    margin-top: 60px;
+    text-align: center;
+}
+.sec3 strong{
+    font-size: xx-large;
+    color: rgb(13, 133, 163);
+}
+.sec4{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 100px;
+  margin: 60px;
+  
+}
+
+.foot{
+    position: relative;
+    
+}
+
+
+.foot h1{
+    position: absolute;
+    top:16%;
+    margin-left: 20%;
+    color:white;
+    border-bottom:  white solid 5px;
+}
+.foot hr{ 
+    position: absolute;
+    color: white;
+    top: 20%;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+.foot .pp{
+    position: absolute;
+    top: 30%;
+    margin-left: 20%;
+    color: white;
+}
+
+.foot .pp2{
+   display: flex;
+   top: 45%;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    
+}
+.pp2 .ppp{
+margin-left: 300px;
+}
+.pp2 .ppp1{
+margin-left: 400px;
+    
+}
+.end{
+    position: absolute;
+    display: flex;
+    top: 60%;
+}
+.end p{
+    margin-left: 300px;
+    color: white;
+}
+
+.input{
+    display: flex;
+    margin-left: 350px;
+  
+}
+.input input{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 1px white;
+    
+}
+
+.input button{
+    margin-left: 20px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10%;
+}
+ .fin {
+    position: absolute;
+    bottom: 3%;
+    color: white;
+    margin-left: 40%;
+    font-size: x-small;
+}
